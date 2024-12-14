@@ -24,7 +24,7 @@ Este proyecto incluye una calculadora básica implementada en tres lenguajes de 
 
 ### C++
 1. Instala un compilador de C++ como g++ si aún no lo tienes instalado: Instalar g++.
-2. Guarda el archivo de C++ como calculadora.cpp.
+2. Guarda el archivo de C++ como `calculadora.cpp`.
 3. Abre una terminal, navega al directorio donde guardaste el archivo y compílalo con el siguiente comando:
 ```bash
 g++ calculadora.cpp -o calculadora
@@ -41,7 +41,7 @@ g++ calculadora.cpp -o calculadora
 ```bash
 pip install tk
 ```
-3. Guarda el archivo Python como calculadora.py.
+3. Guarda el archivo Python como `calculadora.py`.
 4. Abre una terminal, navega al directorio donde guardaste el archivo y ejecuta el siguiente comando:
 ```bash
 python calculadora.py
