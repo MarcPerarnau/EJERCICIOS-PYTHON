@@ -48,7 +48,7 @@ python calculadora.py
 ```
 5. La aplicación se abrirá en una ventana gráfica donde podrás ingresar los números y realizar las operaciones.
 
-### Requisitos
+## Requisitos
 - Ruby (para la versión Ruby)
 - g++ (para la versión C++)
 - Python con Tkinter (para la versión Python)
