@@ -24,6 +24,7 @@ Los ejercicios están disponibles en diversos lenguajes de programación, como:
 
 Python
 C++
+Ruby
 
 ## 🏁 Cómo Empezar
 ### Clona este repositorio:
